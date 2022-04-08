@@ -131,7 +131,7 @@ function howManyTimesElementRepeated(s,repele){
     count+=1;
   }
   return count;
-}
+} 
 // Progression #8: Bonus
 
 const matrix = [
